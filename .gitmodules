@@ -1,0 +1,3 @@
+[submodule "Sem_06/TE_Code"]
+	path = Sem_06/TE_Code
+	url = https://github.com/PrashantBarai/eVAULT_Blockchain_HyperledgerFabric.git
